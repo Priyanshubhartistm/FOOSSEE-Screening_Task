@@ -8,6 +8,7 @@
 1. Open [Open File](https://github.com/Priyanshubhartistm/FOOSSEE-Screening_Task/blob/master/3.Prompt.md.py)
 
 
+
 2. Copy the prompt text
 
 3. Paste it into your preferred AI language model (ChatGPT, Claude, etc.)
