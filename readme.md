@@ -23,11 +23,11 @@ This repository contains the AI debugging assistant prompt design for Python Scr
 
 All files are self-contained markdown documents:
 
-**For immediate use:**  Copy the prompt from [prompt.md](https://github.com/Priyanshubhartistm/FOOSSEE-Screening_Task/blob/master/3.Prompt.md) into any AI language model
+**1. For immediate use:**  Copy the prompt from [prompt.md](https://github.com/Priyanshubhartistm/FOOSSEE-Screening_Task/blob/master/3.Prompt.md) into any AI language model
 
-**For understanding:**  Read the detailed reasoning in [design_reasoning.md](https://github.com/Priyanshubhartistm/FOOSSEE-Screening_Task/blob/master/2.design_reasoning.md)
+**2. For understanding:**  Read the detailed reasoning in [design_reasoning.md](https://github.com/Priyanshubhartistm/FOOSSEE-Screening_Task/blob/master/2.design_reasoning.md)
 
-**For examples:**  See practical applications in 
+**3. For examples:**  See practical applications in 
 [examples.md](https://github.com/Priyanshubhartistm/FOOSSEE-Screening_Task/blob/master/1.example.md)
 
 # 
